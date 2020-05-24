@@ -1,0 +1,1112 @@
+/* Large devices (laptops/desktops, 992px and up) */
+
+@media(min-width: 992px) and (max-width: 1199px){
+    
+    .navbar-light .navbar-nav{
+        padding-right: 95px;
+    }
+    
+    .navbar-light .navbar-nav .nav-link{
+        font-size: 14px;
+        padding: 3px 16px;
+    }
+    
+    .m-auto{
+        margin: 0px !important;
+    }
+    
+    .navbar-light .navbar-brand{
+        margin-left: 30px;
+    }
+    
+    .me-container input:focus{
+        width: 220px;
+    }
+    
+    .me-container input:focus ~ .search{
+        right: -170px;
+    }
+    
+    
+    .line-container {
+        padding: 0px 80px;
+    }    
+    
+    .about-resp{
+        margin-right: 40px;
+    }
+    
+    .about-marging{
+        margin-left: 6%;
+    }
+    
+    
+    .stat{
+        height: 150px;
+    }
+    
+    .stat-border{
+        height: 150px;
+    }
+    
+    
+    .work-contain{
+        width: 80%;
+    }
+    
+    
+    
+    
+    
+    .service-image img{
+        width: 375px;
+    }
+    
+    .scrollbar{
+        width: 370px;
+        padding-right: 25px;
+        margin-left: -14px;
+    }
+    
+    .clients-logo{
+        padding: 30px 0;
+    }
+    
+    .clients-logo img{
+        width: 80%;
+        height: auto;
+    }
+    
+    .review{
+        padding: 0px;
+    }
+    
+    
+    .work-image-overlay{
+        padding-top: 60px;
+    }
+    
+    .work-image-overlay1{
+        padding-top: 165px;
+    }
+    
+    
+    .testimonial-area{
+        padding: 0px;
+    }
+    
+    
+    ul.social-icon li h5{
+        font-size: 12px;
+        padding-right: 4px;
+    }
+    
+    ul.social-icon li:first-child{
+        padding-right: 0px;
+    }
+    
+    
+    
+    
+    
+    
+    
+
+    
+}
+
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+
+@media(min-width: 768px) and (max-width: 991px){
+    
+    
+    .navbar-toggler{
+        margin-right: 4%;
+    }
+
+    .me-container{
+        right: 32%;
+    }    
+    
+    .is-sticky .me-container{
+        right: 32%;
+    }
+    
+    .line-container {
+        padding: 0px 80px;
+    }
+    
+    
+    .navbar-light .navbar-nav{
+        margin: 0 auto;
+    }
+    
+    .navbar-light .navbar-nav .nav-link{
+        text-align: center;
+    }
+    
+    .navbar-light .navbar-nav .nav-link{
+        padding: 5px 25px;
+        margin-top: 15px;
+    }
+    
+    .top-text h5{
+        font-size: 35px;
+    }
+    
+    .top-text h2{
+        font-size: 80px;
+    }
+    
+    .top-text h2 span{
+        font-size: 90px;
+    }
+    
+    .nav-area{
+        height: 650px;
+    }
+    
+    .about-cls{
+        height: 1450px;
+    }
+    
+    .about-marging{
+        margin-left: 0;
+    }
+    
+    .about-single-image{
+        margin: 20px auto;
+        display: table;
+    }
+    
+    .bottom-overlay{
+        width: 250px;
+        height: 300px;
+    }
+    
+    .about-image{
+        width: 250px;
+        height: 300px;
+    }
+    
+    .about-image .about-inner{
+        top: 120px;
+        left: 80px;
+    }
+    
+    .stat{
+        height: 130px;
+    }
+    
+    .stat-border{
+        height: 130px;
+    }
+    
+    .stat-items{
+        padding-top: 30px;
+    }
+    
+    .stat-items h2 span.counter{
+        font-size: 34px;
+    }
+    
+    .stat-items p{
+        font-size: 10px;
+    }
+    
+    .single-work{
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+    
+    .single-work h4{
+        font-size: 22px;
+    }
+    
+    .single-work p{
+        font-size: 16px;
+    }
+    
+    .work-contain{
+        width: 85%;
+    }
+    
+    .work-contain1{
+        margin-bottom: 60px;
+    }
+    
+    .work-marg{
+        margin-bottom: 60px;
+    }
+    
+    .Service-area{
+        margin-bottom: 100px;
+    }
+    
+    
+    .service-image img{
+        width: 500px;
+        height: 275px;
+        display: block;
+        margin: 0 auto;
+    }
+    
+    .accordion{
+        width: 500px;
+        margin-left: 95px;
+        margin-top: 50px;
+    }
+    
+    .scrollbar{
+        width: 495px;
+        padding-right: 30px;
+    }
+    
+    .clients-logo{
+        padding: 40px 0;
+    }
+    
+    .clients-logo img{
+        width: 85%;
+        height: auto;
+    }    
+    
+    
+    .about-text h6{
+        font-size: 28px;
+    }
+    
+    .about-text h3{
+        font-size: 30px;
+    }
+    
+    .card-body{
+        font-size: 18px;
+    }
+    
+    
+    
+    
+    .review{
+        padding: 0px;
+        height: 240px;
+    }
+    
+    .review-image{
+        padding: 26px;
+        top: 63px;
+    }
+    
+    .carousel-size{
+        width: 390px;
+        height: 135px;
+    }
+    
+    .carousel-item p{
+        padding-top: 0px;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 18px;
+    }
+    
+    .custom-carousel .author{
+        top: 185px;
+        left: 240px;
+    }
+    
+    .about-image .about-inner-1{
+        top: 48px;
+        left: 90px;
+    }
+    
+    
+    
+    
+    
+    
+    .work-image-overlay{
+        top: -400px;
+    }
+    
+    .work-image-overlay1{
+        left: 490px;
+        top: 0;
+    }
+    
+
+    
+    .testimonial-area{
+        padding: 0;
+    }
+    
+    ul.full-blog li{
+        width: 25%;
+    }
+    
+
+    
+    .client-review{
+        height: 1100px;
+    }
+    
+    .single-review{
+        margin-left: 150px;
+    }
+    
+    .footer-img-marg{
+        margin-left: 10%;
+    }
+    
+    .respons-marg{
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    
+    .footer-blog1, .footer-blog2, .footer-blog3{
+        margin-top: 25px;
+    }
+    
+    .instagram-head{
+        padding-bottom: 15px;
+        padding-left: 8.7%;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+
+/* Small devices (portrait tablets and large phones, 576px and up) */
+
+@media(min-width: 576px) and (max-width: 767px){
+
+    .navbar-toggler{
+        margin-right: 4%;
+    }
+
+    .me-container{
+        right: 23%;
+    }    
+    
+    .is-sticky .me-container{
+        right: 23%;
+    }
+    
+    .line-container {
+        padding: 0px 80px;
+    }
+    
+    .bottom-menu{
+        height: 35px;
+        margin-top: 40px;
+    }
+    
+    .content{
+        margin-bottom: 40px;
+        padding: 2px 18px;
+    }
+    
+    
+    .navbar-light .navbar-nav{
+        margin: 0 auto;
+    }
+    
+    .navbar-light .navbar-nav .nav-link{
+        text-align: center;
+    }
+    
+    .navbar-light .navbar-nav .nav-link{
+        padding: 5px 25px;
+        margin-top: 15px;
+    }
+    
+    .top-text h5{
+        font-size: 35px;
+    }
+    
+    .top-text h2{
+        font-size: 80px;
+    }
+    
+    .top-text h2 span{
+        font-size: 90px;
+    }
+    
+    .nav-area{
+        height: 900px;
+    }
+    
+    .about-cls{
+        height: 1450px;
+    }
+    
+    .about-marging{
+        margin-left: 0;
+    }
+    
+    .about-single-image{
+        margin: 20px auto;
+        display: table;
+    }
+    
+    .bottom-overlay{
+        width: 250px;
+        height: 300px;
+    }
+    
+    .about-image{
+        width: 250px;
+        height: 300px;
+    }
+    
+    .about-image .about-inner{
+        top: 120px;
+        left: 80px;
+    }
+    
+    .stat{
+        height: 130px;
+    }
+    
+    .stat-border{
+        height: 130px;
+    }
+    
+    .stat-items{
+        padding-top: 30px;
+    }
+    
+    .stat-items h2 span.counter{
+        font-size: 34px;
+    }
+    
+    .stat-items p{
+        font-size: 10px;
+    }
+    
+    .single-work{
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+    
+    .single-work h4{
+        font-size: 20px;
+    }
+    
+    .single-work p{
+        font-size: 14px;
+    }
+    
+    .work-contain{
+        width: 85%;
+    }
+    
+    .work-contain1{
+        margin-bottom: 60px;
+    }
+    
+    .work-marg{
+        margin-bottom: 60px;
+    }
+    
+    .Service-area{
+        margin-bottom: 100px;
+    }
+    
+    
+    .service-image img{
+        width: 500px;
+        height: 275px;
+        display: block;
+        margin: 0 auto;
+    }
+    
+    .accordion{
+        width: 501px;
+        margin-left: 1%;
+        margin-top: 50px;
+    }
+    
+    .scrollbar{
+        width: 495px;
+        padding-right: 30px;
+    }
+    
+    
+    .clients-logo{
+        padding: 30px 0px;
+    }
+    
+    .clients-logo img{
+        width: 90%;
+        height: auto;
+    }    
+    
+    .about-text h6{
+        font-size: 28px;
+    }
+    
+    .about-text h3{
+        font-size: 28px;
+    }
+    
+    .about-text p{
+        font-size: 16px;
+    }
+    
+    .card-body{
+        font-size: 18px;
+    }
+    
+    
+    
+    
+    .review{
+        padding: 0px;
+        height: 290px;
+    }
+    
+    .review-image{
+        padding: 20px;
+        top: 76px;
+        left: 46px;
+    }
+    
+    
+    .review-image img {
+        width: 25px;
+        height: 25px;
+    }    
+    
+    .carousel-size{
+        width: 316px;
+        height: 180px;
+    }
+    
+    .carousel-control-next, .carousel-control-prev{
+        bottom: 75px;
+        width: 0%;
+    }
+    
+    .carousel-item p{
+        padding-top: 0px;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 18px;
+    }
+    
+    .custom-carousel .author{
+        top: 238px;
+        left: 157px;
+    }
+    
+    .custom-carousel{
+        padding: 55px 0px;
+    }
+    
+    .about-image .about-inner-1{
+        top: 48px;
+        left: 90px;
+    }
+    
+    
+    
+
+    
+    
+    
+    .work-image-overlay{
+        top: -400px;
+    }
+    
+    .work-image-overlay1{
+        left: 490px;
+        top: 0;
+    }
+    
+    .testimonial-image img{
+        width: 100px;
+        height: 100px;
+    }    
+    
+    .testimonial-area{
+        padding: 0;
+    }
+    
+    ul.full-blog li{
+        width: 50%;
+    }
+    
+    ul.full-blog li:first-child{
+        margin-left: 2%;
+    }
+    
+    .client-review{
+        height: 1200px;
+    }
+    
+    .single-review{
+        margin-left: 80px;
+    }
+    
+    .footer-img-marg{
+        margin-left: 11%;
+    }
+    
+    .respons-marg{
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    
+    .footer-blog1, .footer-blog2, .footer-blog3{
+        margin-top: 25px;
+    }
+    
+    .instagram-head{
+        padding-bottom: 15px;
+        padding-left: 8.7%;
+    }    
+    
+    
+}
+
+
+
+@media(min-width: 320px) and (max-width: 575px){
+    
+    
+    
+    .navbar-toggler{
+        margin-right: 4%;
+    }
+    
+    .navbar-light .navbar-brand{
+        margin-left: 20px;
+    }
+    
+    
+    .me-container{
+        display: none;
+    }    
+    
+    .is-sticky .me-container{
+        right: 23%;
+    }
+    
+    .line-container {
+        padding: 0px 40px;
+    }
+    
+    .bottom-menu{
+        height: 35px;
+        margin-top: 30px;
+    }
+    
+    .line-bg a{
+        margin-top: 7px;
+    }
+    
+    .content{
+        margin-bottom: 40px;
+        padding: 2px 18px;
+    }
+    
+    .button{
+        font-size: 15px;
+    }
+    
+    .navbar-light .navbar-nav{
+        margin: 0 auto;
+    }
+    
+    .navbar-light .navbar-nav .nav-link{
+        text-align: center;
+    }
+    
+    .navbar-light .navbar-nav .nav-link{
+        padding: 5px 25px;
+        margin-top: 15px;
+    }
+    
+    .top-text h5{
+        font-size: 20px;
+        letter-spacing: 2px;
+    }
+    
+    .top-text h2{
+        font-size: 50px;
+    }
+    
+    .top-text h2 span{
+        font-size: 55px;
+    }
+    
+    .top-text {
+        margin-top: 20px;
+    }
+    
+    .nav-area{
+        height: 700px;
+    }
+    
+    .about-cls{
+        height: 1450px;
+    }
+    
+    .about-resp-line{
+        border-top: 1px solid #f0f0f0;
+    }
+    
+    .about-marging{
+        margin-left: 0;
+    }
+    
+    .about-single-image{
+        margin: 20px auto;
+        display: table;
+    }
+    
+    .bottom-overlay{
+        width: 250px;
+        height: 300px;
+    }
+    
+    .about-image{
+        width: 250px;
+        height: 300px;
+    }
+    
+    .about-image .about-inner{
+        top: 120px;
+        left: 80px;
+    }
+    
+    .stat{
+        display: none;
+    }
+    
+    .single-work{
+        margin-top: 30px;
+        margin-left: 0px;
+    }
+    
+    .single-work h4{
+        font-size: 20px;
+    }
+    
+    .single-work p{
+        font-size: 14px;
+    }
+    
+    .work-contain{
+        width: 88%;
+    }
+    
+    .work-contain1{
+        margin-bottom: 60px;
+    }
+    
+    .work-marg{
+        margin-bottom: 60px;
+    }
+    
+    .mobile-img img{
+        width: 200px;
+        height: 300px;
+    }
+    
+    .mobile-img{
+        margin-top: 350px;
+    }
+    
+    .mobile-img-2 img{
+        width: 160px;
+        height: 250px;
+    }
+    
+    .mobile-img-2 {
+        margin-top: -190px;
+        margin-left: 45%;
+    }
+    
+    .Service-area{
+        margin-bottom: 100px;
+    }
+    
+    
+    .service-image img{
+        width: 350px;
+        height: 260px;
+        display: block;
+        margin: 0 auto;
+    }
+    
+    .accordion{
+        width: 501px;
+        margin-left: 1%;
+        margin-top: 50px;
+    }
+    
+    .scrollbar{
+        width: 350px;
+        padding-right: 20px;
+    }
+    
+    .clients-area{
+        display: none;
+    }
+    
+    .team-area{
+        margin-bottom: 0;
+    }
+    
+    .clients-logo{
+        padding: 30px 0px;
+    }
+    
+    .clients-logo img{
+        width: 90%;
+        height: auto;
+    }    
+    
+    .about-text h6{
+        font-size: 22px;
+    }
+    
+    .about-text h3{
+        font-size: 24px;
+        margin-bottom: 33px;
+    }
+    
+    .about-text p{
+        font-size: 14px;
+        padding: 20px 30px;
+        text-align: justify;
+    }
+    
+    .card-body{
+        font-size: 18px;
+    }
+    
+    
+    
+    
+    .review{
+        padding: 20px;
+        height: 275px;
+    }
+    
+    .review-image{
+        display: none;
+    }
+    
+    
+       
+    
+    .carousel-size{
+        width: 316px;
+        height: 180px;
+        margin-left: 0;
+        padding: 0 20px;
+    }
+    
+    .carousel-control-next, .carousel-control-prev{
+        bottom: 75px;
+        width: 10%;
+    }
+    
+    .carousel-control-next{
+        right: -18px;
+    }
+    
+    .testimonial-size{
+        width: 290px;
+        height: 232px;
+        margin-left: 24px;
+        padding: 0;
+    }
+    
+    .carousel-item p{
+        padding-top: 0px;
+        padding-left: 20px;
+        padding-right: 20px;
+        font-size: 18px;
+    }
+    
+    .custom-carousel .author{
+        top: 210px;
+        left: 40px;
+    }
+    
+    .custom-carousel{
+        padding: 25px 0px;
+    }
+    
+    
+    .about-image .about-inner-1{
+        top: 48px;
+        left: 90px;
+    }
+    
+    
+    .accordion {
+        width: 350px;
+        margin-left: 3%;
+        margin-top: 50px;
+    }    
+
+    
+    
+    
+    .work-image-overlay{
+        top: -400px;
+    }
+    
+    .work-image-overlay1{
+        left: 490px;
+        top: 0;
+    }
+    
+    .testimonial-image img{
+        width: 100px;
+        height: 100px;
+    }    
+    
+    .testimonial-area{
+        padding: 20px 20px;
+    }
+    
+    .custom-carousel1{
+        
+    }
+    
+    ul.full-blog li{
+        width: 50%;
+    }
+    
+    ul.full-blog li:first-child{
+        margin-left: 2%;
+    }
+    
+    .client-review{
+        height: 1270px;
+    }
+    
+    .single-review{
+        margin-left: 125px;
+        margin-top: 50px;
+    }
+    
+    .single-review p{
+        padding-right: 33px;
+        text-align: justify;
+    }
+    
+    .footer-img-marg{
+        margin-left: 5%;
+    }
+    
+    .respons-marg{
+        margin-top: 80px;
+        margin-bottom: 80px;
+    }
+    
+    .footer-blog1, .footer-blog2, .footer-blog3{
+        margin-top: 25px;
+    }
+    
+
+    
+    .instagram-head{
+        padding-bottom: 15px;
+        padding-left: 0%;
+    }
+    
+    .change-xl{
+        width: 60%;
+    }
+    
+    .change1-xl{
+        width: 20%;
+    }
+    
+    .insta-text p {
+        margin-top: 12px;
+    }
+    
+    .footer-area p{
+        padding: 0;
+    }    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
